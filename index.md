@@ -1,30 +1,12 @@
-## Welcome to GitHub Pages
+## Velkommen til en hjemmeside med forslag til læringsapps
+Nedenfor er der eksempler på apps du kan bruge sammen med dit barn, der har fokus på læring. 
 
-You can use the [editor on GitHub](https://github.com/jonasmuhsnielsen/Ulighediuddannelse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+App: Dragon Box
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+App: XXXX
 
-### Markdown
+App: CCC
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+App: CCC
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-I nedenstående afsnit er der eksempler på læringsapps du kan bruge sammen med dit barn. 
-
-App 1
-
-App 2
-
-App 3
+Vær venlig at returnere til spørgeskemaet når du har set på appsene. Det er en stor hjælp for mig. 
